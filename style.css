@@ -1,14 +1,14 @@
 body {
     font-family: Helvetica; 
     line-height: 1.6;
-    background-color: #0077b6;  
+    background-color: #f8f9fa;  
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #03045e; 
-    color: #ade8f4; 
+    background-color: #343a40; 
+    color: #f8f9fa; 
     padding: 2rem;
     text-align: center;
 }
@@ -38,8 +38,9 @@ header p {
 }
 
 .project h3 {
-    color: #0077b6; 
+    color: #f8f9fa; 
 }
+
 
 
 
