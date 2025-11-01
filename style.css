@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica; 
     line-height: 1.6;
-    background-color: #0077b6; 
+    background-color: #03045e; 
     margin: 0;
     padding: 0;
 }
@@ -40,6 +40,7 @@ header p {
 .project h3 {
     color: #0077b6; 
 }
+
 
 
 
