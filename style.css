@@ -1,14 +1,14 @@
 body {
     font-family: Helvetica; 
     line-height: 1.6;
-    background-color: #001d3d; 
+    background-color: #023e8a; 
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #003566; 
-    color: #ffd60a; 
+    background-color: #0077b6; 
+    color: #ade8f4; 
     padding: 2rem;
     text-align: center;
 }
@@ -33,13 +33,14 @@ header p {
 
 .project {
     margin-bottom: 1.5rem;
-    border-bottom: 1px solid #003566;
+    border-bottom: 1px solid #ffffff;
     padding-bottom: 1rem;
 }
 
 .project h3 {
-    color: #2c3e50; 
+    color: #0077b6; 
 }
+
 
 
 
